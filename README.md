@@ -11,8 +11,9 @@ I'm passionate about technology, programming, analytical thinking and developing
 I'm continuously exploring different areas of computing, strengthening my technical abilities and turning theoretical knowledge into practical experience.
 
 💻 Programming Languages
+## 💻 Programming Languages
 
-<p>
+<p align="left">
   <img src="https://img.shields.io/badge/Java-Learning-orange?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-Learning-blue?style=for-the-badge&logo=python&logoColor=white" />
 </p>
